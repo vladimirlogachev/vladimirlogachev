@@ -1,4 +1,4 @@
-Hai!
+Hai
 
 - I'm currently working on [mu-graphql-example-elm](https://github.com/higherkindness/mu-graphql-example-elm)
 - I'm currently learning PostgreSQL and Haskell
