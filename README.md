@@ -1,4 +1,4 @@
-![I love haskell and elm](https://user-images.githubusercontent.com/17773003/149596217-66970ba3-9877-4d97-ac38-dba98a0e8005.png)
+![I love haskell and elm](https://user-images.githubusercontent.com/17773003/149596485-63372de7-f634-468f-bfa8-4ff1f2f3a391.png)
 
 ## About me
 
