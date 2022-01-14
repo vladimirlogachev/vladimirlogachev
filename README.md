@@ -1,9 +1,4 @@
-<p>
-<img src="https://logachev.dev/assets/images/haskell.svg" alt="Haskell" height="77"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://logachev.dev/assets/images/elm.svg" alt="Elm" height="77"/>
-</p>
-
+![I love haskell and elm](https://user-images.githubusercontent.com/17773003/149596217-66970ba3-9877-4d97-ac38-dba98a0e8005.png)
 
 ## About me
 
@@ -17,6 +12,6 @@ That's why I prefer functional languages that implement strict static typing, su
 As a person, I love the win-win approach, I don't play a victim, I don't seek approval and publically respect everyone who helps others or has knowledge. So, the vision of my technical career is that FP and strong teamwork can make everyone involved rich.
 
 
-## I am available for hire, [here is my cv](https://logachev.dev/cv).
+**I am available for hire, [here is my cv](https://logachev.dev/cv).**
 
 
