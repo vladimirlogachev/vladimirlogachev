@@ -10,7 +10,7 @@ In addition to technical experience, I have entrepreneurial experience, so on my
 
 That's why I prefer functional languages that implement strict static typing, such as Haskell and Elm. My preference is based on the idea that once we have strict static typing and ADTs, we can move very quickly without fear of making design mistakes because they become easy to solve later. (And we can move even more quickly with the help of code generation and mono repository).
 
-As a person, I love the win-win approach, I don't play a victim, I don't seek approval and publically respect everyone who helps others or has knowledge. So, the vision of my technical career is that FP and strong teamwork can make everyone involved rich.
+As a person, I love the win-win approach, I don't play a victim, I don't seek approval and I do publically respect everyone who helps others or has knowledge. So, the vision of my technical career is that FP and strong teamwork can make everyone involved rich.
 
 
 **I am available for hire, [here is my cv](https://logachev.dev/cv).**
