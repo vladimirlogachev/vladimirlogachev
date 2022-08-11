@@ -1,4 +1,5 @@
-![I love haskell and elm](https://user-images.githubusercontent.com/17773003/156296459-95856ec0-a28f-421a-8d0e-d23fd641510e.svg)
+![Haskell, Elm, PureScript, Scala](https://user-images.githubusercontent.com/17773003/184151453-9bdc5f54-2c8c-4ec8-964b-77593eb5e200.svg)
+
 
 ## About me
 
