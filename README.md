@@ -1,4 +1,4 @@
-![Haskell, Elm, Scala](https://github.com/VladimirLogachev/vladimirlogachev/assets/17773003/701b42a6-d741-418b-95e7-89eebf06ef9f)
+![Haskell, Elm, Scala, whatever](https://github.com/VladimirLogachev/vladimirlogachev/assets/17773003/067b01d4-e863-4394-a9e8-d0e22df3b0e3)
 
 ## About me
 
