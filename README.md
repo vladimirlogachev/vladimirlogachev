@@ -1,6 +1,6 @@
 # Skills
 
-## Leadership and Project Management
+## Leadership and Product Management
 
 - **Responsibilities:** project management, product management, team leadership, presenting, planning, risk management, schedule management, release management, issue resolution, stakeholder communication, providing feedback
 - **Values:** collaboration, transparency, accountability, proactivity, empathy
