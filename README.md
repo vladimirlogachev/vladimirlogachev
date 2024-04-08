@@ -2,13 +2,13 @@
 
 ## Leadership and Product Management
 
-- **Responsibilities:** project management, product management, team leadership, presenting, planning, risk management, schedule management, release management, issue resolution, stakeholder communication, providing feedback
-- **Values:** collaboration, transparency, accountability, proactivity, empathy
+- **Responsibilities:** Project management, product management, team leadership, presenting, planning, risk management, schedule management, release management, issue resolution, stakeholder communication, providing feedback
+- **Values:** Collaboration, transparency, accountability, proactivity, empathy
 - **Tools:** GitHub Projects, Notion, Jira, Confluence, Figma, Draw.io
 
 ## Technical Expertise
 
-- **Responsibilities:** research and analysis, engineering, code review, mentorship, technical interviews, running meetups and reading groups
+- **Responsibilities:** Research and analysis, engineering, code review, mentorship, technical interviews, running meetups and reading groups
 - **Backend:** Haskell (mtl), Scala (ZIO, cats, Akka), Rust (Tokio), TypeScript
 - **Frontend:** Elm, TypeScript, React, Angular, Next.js
 - **DevOps:** Terraform, Kubernetes, Docker, GitHub Actions
