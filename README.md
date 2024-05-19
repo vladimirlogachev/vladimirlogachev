@@ -36,7 +36,3 @@ Check out my cv: https://logachev.dev
 ## Coding assessments
 
 - [transitive_closure](https://github.com/vladimirlogachev/transitive_closure) (Scala, cats)
-
-## WIP
-
-- [managed-prototypes/ecommerce1](https://github.com/managed-prototypes/ecommerce1) (Terraform, k8s, Rust, Elm, Pulsar, Zitadel)
