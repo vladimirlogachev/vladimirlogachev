@@ -15,6 +15,11 @@ Check out my cv: https://logachev.dev
 
 - [elm-package-insights](https://github.com/vladimirlogachev/elm-package-insights) (Haskell)
 
+## Websites
+
+- [logachev.dev](https://github.com/vladimirlogachev/logachev.dev) (Elm)
+- [christophersamoilov.github.io](https://github.com/christophersamoilov/christophersamoilov.github.io) (Elm)
+
 ## Example projects and prototypes
 
 - [VKFisher/tic-tac-toe-scala](https://github.com/VKFisher/tic-tac-toe-scala) (Scala, Elm, Pulsar, ZIO)
