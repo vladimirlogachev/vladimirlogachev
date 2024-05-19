@@ -18,7 +18,7 @@ Check out my cv: https://logachev.dev
 ## Websites
 
 - [logachev.dev](https://github.com/vladimirlogachev/logachev.dev) (Elm)
-- [christophersamoilov.github.io](https://github.com/christophersamoilov/christophersamoilov.github.io) (Elm)
+- [christophersamoilov/christophersamoilov.github.io](https://github.com/christophersamoilov/christophersamoilov.github.io) (Elm)
 
 ## Example projects and prototypes
 
