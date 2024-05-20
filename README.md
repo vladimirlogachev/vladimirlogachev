@@ -4,14 +4,16 @@ I'm looking for a **software engineer**, **team lead**, or **product manager** j
 
 Check out my cv: https://logachev.dev
 
-# My Repos
+# My repositories
 
-## Elm libraries
+Either my initiative or significant contributions from me.
+
+## Libraries
 
 - [elm-modular-grid](https://github.com/vladimirlogachev/elm-modular-grid) (Elm)
 - [elm-ui-toolkit](https://github.com/vladimirlogachev/elm-ui-toolkit) (Elm)
 
-## Elm CLIs
+## CLIs
 
 - [elm-package-insights](https://github.com/vladimirlogachev/elm-package-insights) (Haskell)
 
