@@ -1,7 +1,3 @@
-Hi 👋🏻
-
-Check out my cv: https://logachev.dev
-
 # My public repositories
 
 Either my initiative or significant contributions from me.
