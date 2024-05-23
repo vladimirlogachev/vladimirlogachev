@@ -18,7 +18,7 @@ _(either my initiative or significant contributions from me)_
 
 ## Example projects and prototypes
 
-- [VKFisher / tic-tac-toe-scala](https://github.com/VKFisher/tic-tac-toe-scala) (Scala, ZIO, Elm, Pulsar)
+- [VKFisher / tic-tac-toe-scala](https://github.com/VKFisher/tic-tac-toe-scala) (Scala 3, ZIO, Elm, Pulsar)
 - [haskell-to-elm / servant-to-elm-example](https://github.com/haskell-to-elm/servant-to-elm-example) (Haskell, Elm)
 - [higherkindness / mu-graphql-example-elm](https://github.com/higherkindness/mu-graphql-example-elm) (Haskell, Elm)
 - [elm-land-docker-example](https://github.com/vladimirlogachev/elm-land-docker-example) (Elm)
@@ -31,4 +31,4 @@ _(either my initiative or significant contributions from me)_
 
 ## Coding assessments
 
-- [transitive_closure](https://github.com/vladimirlogachev/transitive_closure) (Scala, Cats)
+- [transitive_closure](https://github.com/vladimirlogachev/transitive_closure) (Scala 2, Cats)
