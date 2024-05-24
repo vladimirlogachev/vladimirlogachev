@@ -23,7 +23,6 @@ _(either my initiative or significant contributions from me)_
 - [higherkindness / mu-graphql-example-elm](https://github.com/higherkindness/mu-graphql-example-elm) (Haskell, Elm) 2020
 - [elm-land-docker-example](https://github.com/vladimirlogachev/elm-land-docker-example) (Elm) 2024
 - [managed-prototypes / helloworld-fullstack-k8s](https://github.com/managed-prototypes/helloworld-fullstack-k8s) (Terraform, k8s)  2024
-- [managed-prototypes / droplet-ssh](https://github.com/managed-prototypes/droplet-ssh) (Terraform, k8s) 2024
 
 ## Books translations
 
