@@ -30,4 +30,4 @@ _(either my initiative or significant contributions from me)_
 
 ## Coding assessments
 
-- [transitive_closure](https://github.com/vladimirlogachev/transitive_closure) (Scala 2, Cats) 2019
+- [transitive_closure](https://github.com/vladimirlogachev/transitive-closure) (Scala 2, Cats) 2019
