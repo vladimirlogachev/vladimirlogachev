@@ -24,10 +24,10 @@ _(either my initiative or significant contributions from me)_
 - [elm-land-docker-example](https://github.com/vladimirlogachev/elm-land-docker-example) (Elm) 2024
 - [managed-prototypes / helloworld-fullstack-k8s](https://github.com/managed-prototypes/helloworld-fullstack-k8s) (Terraform, k8s)  2024
 
-## Books translations
-
-- [MostlyAdequate / mostly-adequate-guide-ru](https://github.com/MostlyAdequate/mostly-adequate-guide-ru) (JavaScript) 2019
-
 ## Coding assessments
 
 - [transitive-closure](https://github.com/vladimirlogachev/transitive-closure) (Scala 2, Cats) 2019
+
+## Books translations
+
+- [MostlyAdequate / mostly-adequate-guide-ru](https://github.com/MostlyAdequate/mostly-adequate-guide-ru) (JavaScript) 2019
