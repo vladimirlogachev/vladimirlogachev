@@ -26,6 +26,7 @@ _(either my initiative or significant contributions from me)_
 
 ## Coding assessments
 
+- [exchange-order-matcher](https://github.com/vladimirlogachev/exchange-order-matcher) (Scala 3, ZIO) 2024
 - [transitive-closure](https://github.com/vladimirlogachev/transitive-closure) (Scala 2, Cats) 2019
 
 ## Books translations
