@@ -13,7 +13,6 @@ _(either my initiative or significant contributions from me)_
 
 ## Websites
 
-- [logachev.dev](https://github.com/vladimirlogachev/logachev.dev) (Elm) 2024
 - [christophersamoilov / christophersamoilov.github.io](https://github.com/christophersamoilov/christophersamoilov.github.io) (Elm) 2024
 
 ## Example projects and prototypes
