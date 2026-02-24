@@ -21,6 +21,7 @@ _(either my initiative or significant contributions from me)_
 - [haskell-to-elm / servant-to-elm-example](https://github.com/haskell-to-elm/servant-to-elm-example) (Haskell, Elm) 2021
 - [higherkindness / mu-graphql-example-elm](https://github.com/higherkindness/mu-graphql-example-elm) (Haskell, Elm) 2020
 - [elm-dropbox-shared-app-state-demo](https://github.com/vladimirlogachev/elm-dropbox-shared-app-state-demo) (Elm) 2026
+- [elm-google-drive-shared-app-state-demo](https://github.com/vladimirlogachev/elm-google-drive-shared-app-state-demo) (Elm) 2026
 - [elm-land-docker-example](https://github.com/vladimirlogachev/elm-land-docker-example) (Elm) 2024
 - [managed-prototypes / helloworld-fullstack-k8s](https://github.com/managed-prototypes/helloworld-fullstack-k8s) (Terraform, k8s)  2024
 
