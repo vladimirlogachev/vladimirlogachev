@@ -2,6 +2,16 @@
 
 _(either my initiative or significant contributions from me)_
 
+## Awsum – Compiler and editor plugins
+
+- [awsum-lang / awsum](https://github.com/awsum-lang/awsum) (Haskell) 2026
+- [awsum-lang / awsum-vscode](https://github.com/awsum-lang/awsum-vscode)
+- [awsum-lang / awsum-zed](https://github.com/awsum-lang/awsum-zed)
+- [awsum-lang / awsum-intellij](https://github.com/awsum-lang/awsum-intellij)
+- [awsum-lang / awsum-nvim](https://github.com/awsum-lang/awsum-nvim)
+- [awsum-lang / awsum-emacs](https://github.com/awsum-lang/awsum-emacs)
+- [awsum-lang / tree-sitter-awsum](https://github.com/awsum-lang/tree-sitter-awsum)
+
 ## Libraries
 
 - [elm-modular-grid](https://github.com/vladimirlogachev/elm-modular-grid) (Elm) 2024
