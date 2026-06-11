@@ -2,7 +2,7 @@
 
 _(either my initiative or significant contributions from me)_
 
-## Awsum – functional language compiler and editor plugins
+## Awsum – correctness-first, cross-target functional language
 
 - [awsum-lang / awsum](https://github.com/awsum-lang/awsum) (Haskell) 2026
 - [awsum-lang / awsum-vscode](https://github.com/awsum-lang/awsum-vscode)
